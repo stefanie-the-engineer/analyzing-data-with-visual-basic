@@ -1,7 +1,7 @@
-# Data Analysis Using Excel Through Visual Basic Scripts
-An Excel spreadheet containing stock market data with be analyzed using Visual Basic scripts. 
+# Stock Data Analysis Using Excel Visual Basic Scripts
+An Excel spreadheet containing stock market data will be analyzed using Visual Basic scripts. 
 
-The output will include the total volume for each stock for one year (with the ticker symbol for the stock volume), the yearly change in price of the stock at beginning of the year to the end of the year, return the stock with the greatest % increase, the stock with the greatest b% decrease, the stock with the greatest total volume.
+The output will include the name of the stock ticker name and the total stock volume for each stock ticker for the years 2014, 2015 and 2016.
 
-Also the goal is to do this for every year contained in the workbook.
+This was completed by creating two loops - a loop that looped through each spreadsheet in the workbook and another loop going through every row in each spreadsheet - to find unique stock tickers and iteravely counting the total stock volume for each ticker.
 
