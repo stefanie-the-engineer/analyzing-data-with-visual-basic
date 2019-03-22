@@ -5,4 +5,4 @@ The output will include the name of the stock ticker name and the total stock vo
 
 This was completed by creating two loops - a loop that looped through each spreadsheet in the workbook and another loop going through every row in each spreadsheet - to find unique stock tickers and iteravely counting the total stock volume for each ticker.
 
-The images are found in the folder Summary and the Visual Basic scripts is included as well.
+The images are found in the folder Summary and the Visual Basic scripts is included as well. The Excel spreadsheets are too large to be uploaded.
