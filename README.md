@@ -8,4 +8,4 @@ This was completed by creating two loops - a loop that looped through each sprea
 The images are found in the folder Summary and the Visual Basic scripts is included as well. The Excel spreadsheets are too large to be uploaded.
 
 As the Excel spreadsheet is too large to load, below is the link to the spreadsheet containing the solution -
-https://drive.google.com/drive/folders/12j5t5cDMRWkA-r32DjfT4rq2tFvtYJsv - which can be viewed as reference.
+https://drive.google.com/file/d/1dchb7c8YIdY8As8pWs9HqE_msYgaw-SO/view?usp=sharing - which can be viewed as reference.
